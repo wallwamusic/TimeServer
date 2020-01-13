@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
-        <module name="serverpool" />
         <module name="server" />
         <module name="commonbeans" />
+        <module name="serverpool" />
       </profile>
     </annotationProcessing>
   </component>
